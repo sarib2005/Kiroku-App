@@ -59,4 +59,4 @@ Anime and manga data comes from [AniList](https://anilist.co) and [MyAnimeList](
 
 Found a bug or have an idea? Open an issue and let me know.
 
-Made by [Sarib](https://github.com/<your-username>).
+Made by [Sarib](https://github.com/sarib2005).
