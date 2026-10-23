@@ -29,7 +29,7 @@ The app checks for updates on its own and lets you know when a new version is re
 **Discover what's next**
 - Trending, airing, seasonal, top rated, popular and upcoming titles
 - Search with genre, format and status filters
-- Trailers, characters, voice actors, staff and related titles
+- Characters, voice actors, staff and related titles
 - Official reading links for manga
 - **Continue in Manga:** finished an anime season? Kiroku shows where to pick up the manga
 
