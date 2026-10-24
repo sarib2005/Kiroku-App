@@ -10,7 +10,7 @@ Website: [kiroku-app.vercel.app](https://kiroku-app.vercel.app)
 
 ## Download
 
-Get the latest APK from the [Releases](https://github.com/sarib2005/Kiroku-App/releases/tag/1.2) page.
+Get the latest APK from the [Releases]([https://github.com/sarib2005/Kiroku-App/releases/tag/1.2](https://github.com/sarib2005/Kiroku-App/releases)) page.
 
 1. Download the `.apk` file from the latest release.
 2. Open it on your Android phone and allow installation from your browser or file manager if asked.
