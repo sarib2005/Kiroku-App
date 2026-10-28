@@ -24,13 +24,16 @@ The app checks for updates on its own and lets you know when a new version is re
 - Anime, manga, manhwa, manhua and light novels, all in one app
 - Statuses for Watching/Reading, Wishlist, On Hold, Dropped and Completed
 - Episode, chapter and volume progress, so you always know where you left off
+- "Mark as caught up" for anime that are still airing
 - A library you can search, filter and group by franchise
+- Hide individual titles from your public profile
 
 **Discover what's next**
-- Trending, airing, seasonal, top rated, popular and upcoming titles
+- Trending, airing, seasonal, top rated, popular and upcoming titles, with endless scrolling
 - Search with genre, format and status filters
 - Characters, voice actors, staff and related titles
 - Official reading links for manga
+- Save your own reading sources for each manga, with a link and a note per site
 - **Continue in Manga:** finished an anime season? Kiroku shows where to pick up the manga
 
 **Rate and rank**
@@ -40,8 +43,14 @@ The app checks for updates on its own and lets you know when a new version is re
 
 **Share with friends**
 - Public or private profiles
-- Add friends, chat with them and send recommendations
+- Find people from suggestions or search, add friends and see who's online
+- Chat with friends and send them recommendations
 - Climb the global and friends leaderboards
+
+**Smooth and reliable**
+- Fast loading with cached data and skeleton screens instead of blank pages
+- Clear offline and AniList-outage messages, with a Retry button
+- Bottom sheets that slide in smoothly and can be swiped down to close
 
 **Easy to start**
 - Sign in with email, Google, AniList or MyAnimeList
