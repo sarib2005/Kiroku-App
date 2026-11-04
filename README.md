@@ -30,7 +30,9 @@ The app checks for updates on its own and lets you know when a new version is re
 
 **Discover what's next**
 - Trending, airing, seasonal, top rated, popular and upcoming titles, with endless scrolling
-- Search with genre, format and status filters
+- Search with genre, format, status, release year and streaming or reading service filters
+- **Describe the plot:** forgot the title? Type what you remember and Kiroku finds matching anime and manga
+- A Schedule screen for upcoming episodes
 - Characters, voice actors, staff and related titles
 - Official reading links for manga
 - Save your own reading sources for each manga, with a link and a note per site
@@ -40,11 +42,13 @@ The app checks for updates on its own and lets you know when a new version is re
 - Rate what you've completed and see the community average
 - Build your own Top 10 lists for anime, manga and manhua
 - Get gentle nudges about titles you've wishlisted, paused or dropped
+- Rate Kiroku itself and see what other users think
 
 **Share with friends**
 - Public or private profiles
 - Find people from suggestions or search, add friends and see who's online
 - Chat with friends and send them recommendations
+- Comments on every title, with replies and notifications when someone answers you
 - Climb the global and friends leaderboards
 
 **Smooth and reliable**
@@ -55,6 +59,7 @@ The app checks for updates on its own and lets you know when a new version is re
 **Easy to start**
 - Sign in with email, Google, AniList or MyAnimeList
 - Import your existing list from AniList or MyAnimeList
+- Sync your library any time to pull in your latest AniList and MyAnimeList updates
 
 ## What Kiroku isn't
 
