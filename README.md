@@ -38,6 +38,11 @@ The app checks for updates on its own and lets you know when a new version is re
 - Save your own reading sources for each manga, with a link and a note per site
 - **Continue in Manga:** finished an anime season? Kiroku shows where to pick up the manga
 
+ **Stay up to date**
+- Get a notification when a new episode of an anime you're watching comes out, even when the app is closed
+- Get notified about chat messages, friend requests, recommendations and replies to your comments, and tap a notification to jump straight to it
+- A Notifications screen that shows new episodes and replies in one place
+
 **Rate and rank**
 - Rate what you've completed and see the community average
 - Build your own Top 10 lists for anime, manga and manhua
