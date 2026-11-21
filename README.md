@@ -56,7 +56,7 @@ The app checks for updates on its own and lets you know when a new version is re
 - **Taste match:** open a friend or any public profile to see how alike your tastes are, the titles you both loved and where you disagree
 - Chat with friends and send them recommendations
 - Comments on every title, with replies and notifications when someone answers you
-- Vote in the **Weekly poll** on Home and see how everyone else voted
+- Vote in the **Weekly poll** from Home or Community and see how everyone else voted
 - Climb the global and friends leaderboards
 
 **Smooth and reliable**
