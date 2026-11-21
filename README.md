@@ -22,6 +22,7 @@ The app checks for updates on its own and lets you know when a new version is re
 
 **Track everything**
 - Anime, manga, manhwa, manhua and light novels, all in one app
+- One Discover and one Library for anime and manga, with a simple switch at the top
 - Statuses for Watching/Reading, Wishlist, On Hold, Dropped and Completed
 - Episode, chapter and volume progress, so you always know where you left off
 - "Mark as caught up" for anime that are still airing
@@ -38,7 +39,7 @@ The app checks for updates on its own and lets you know when a new version is re
 - Save your own reading sources for each manga, with a link and a note per site
 - **Continue in Manga:** finished an anime season? Kiroku shows where to pick up the manga
 
- **Stay up to date**
+**Stay up to date**
 - Get a notification when a new episode of an anime you're watching comes out, even when the app is closed
 - Get notified about chat messages, friend requests, recommendations and replies to your comments, and tap a notification to jump straight to it
 - A Notifications screen that shows new episodes and replies in one place
@@ -51,9 +52,11 @@ The app checks for updates on its own and lets you know when a new version is re
 
 **Share with friends**
 - Public or private profiles
-- Find people from suggestions or search, add friends and see who's online
+- Find people from suggestions, the most active users this week, or search, then add friends and see who's online
+- **Taste match:** open a friend or any public profile to see how alike your tastes are, the titles you both loved and where you disagree
 - Chat with friends and send them recommendations
 - Comments on every title, with replies and notifications when someone answers you
+- Vote in the **Weekly poll** on Home and see how everyone else voted
 - Climb the global and friends leaderboards
 
 **Smooth and reliable**
