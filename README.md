@@ -28,6 +28,12 @@ The app checks for updates on its own and lets you know when a new version is re
 - "Mark as caught up" for anime that are still airing
 - A library you can search, filter and group by franchise
 - Hide individual titles from your public profile
+- Can't find a title? Add it yourself, and once it has been checked it shows up for everyone to track, rate and comment on
+
+**Build a habit**
+- An activity heatmap on your profile that shows every day you watched or read
+- Daily streaks with an animated flame that grows the longer you keep going
+- Friends can see your activity, and so can everyone else if your profile is public
 
 **Discover what's next**
 - Trending, airing, seasonal, top rated, popular and upcoming titles, with endless scrolling
